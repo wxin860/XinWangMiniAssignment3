@@ -1,0 +1,9 @@
+.cell{
+    height: 100px;
+    width:100px;
+    border: 1px grey solid;
+}
+.gridrow{
+    display:flex;
+    flex-direction:row;
+}
